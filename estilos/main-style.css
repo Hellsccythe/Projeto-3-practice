@@ -116,4 +116,8 @@ A:hover{
         padding: 4vw;
     }
 
+    div>img.imagem-carousel{
+        width: 90vw;
+    }
+
 }
