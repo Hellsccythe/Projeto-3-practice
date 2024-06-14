@@ -87,6 +87,10 @@ A:hover{
     text-decoration: underline;
 }
 
+.tab-pane{
+    background-color: #d9bbf099;
+    border-radius: 5px;
+}
 
 @media screen and (max-width: 767px) {
     .carousel-item img{
