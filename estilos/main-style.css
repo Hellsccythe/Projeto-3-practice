@@ -77,6 +77,11 @@ div>img.imagem-carousel{
     text-decoration: none;
 }
 
+p{
+    text-align: justify;
+    text-indent: 15px;
+}
+
 A{
     color: #82418A;
     font-weight: bold;
@@ -95,5 +100,9 @@ A:hover{
 @media screen and (max-width: 767px) {
     .carousel-item img{
         height: 280px;
+    }
+
+    div.tab-pane{
+        padding: 4vw;
     }
 }
