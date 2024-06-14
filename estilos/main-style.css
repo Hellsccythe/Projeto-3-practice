@@ -11,6 +11,16 @@ body{
     font-family: Roboto, sans-serif;
 }
 
+#friren{
+    width: 45px;
+    border-radius: 4px;
+    padding-right: 10px;
+}
+
+#titulo:hover{
+    color: #543A57;
+}
+
 .navbar{
     background-color: #AF33BD;
 }
